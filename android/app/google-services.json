@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400154892064",
+    "project_id": "pontuacao-canastra",
+    "storage_bucket": "pontuacao-canastra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400154892064:android:1f9a352d56339293a8a945",
+        "android_client_info": {
+          "package_name": "br.com.scriptfy.pontuacao_canastra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400154892064-f0c940ur11kght0cp5cdk0rps057h8bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmnzvB8EOWqE8yYqGpNwaCu590b8OYWZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400154892064-f0c940ur11kght0cp5cdk0rps057h8bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

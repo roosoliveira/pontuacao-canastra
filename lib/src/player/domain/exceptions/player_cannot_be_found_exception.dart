@@ -1,0 +1,1 @@
+class PlayerCannotBeFoundException with Exception {}
